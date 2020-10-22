@@ -1,7 +1,7 @@
 # Bcredi Data engineer challenge
 
 
-## Challenge 1:
+## Challenge 1
 ### Context:
 Imagine a scenario where a team of developers mantain several backend applications as microservices and some key events are produced in RabbitMQ Queues/Kafka topics which are mainly used to feed applications, but also to enable data-driven business decisions. Your goal is to design a data infrastructure architecture which enables:
 - Data analysts to easily consume the data provided by the source applications in order to aggregate information;
